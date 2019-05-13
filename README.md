@@ -1,7 +1,7 @@
 # XV6-tweaks
 
 # Kernel_threads:
-Implementation of kernael managed threads, the system now runs threads instead of processes.
+Implementation of kernel managed threads, the system now runs threads instead of processes.
 Mutex and a tournament tree for mutual exclusion is also implemented, mutex as system calls and the tournament tree as user library.
 
 Threads:
